@@ -1,0 +1,56 @@
+.body {
+  background-color : #000537;
+  color : white ;
+}
+
+.h2{
+  color: #FCC4FF ;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 80px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border: 2px solid #000537;
+  height: 30px;
+  border-radius: 20px;
+  background-color:#000537;
+  box-shadow: 2px 2px 2px #FCC4FF;
+}
+.first-para{
+  color:#FCC4FF;
+  margin-top: 90px;
+  font-size:19px;
+  padding-left: 20px;
+}
+ 
+label{
+  color : #FCC4FF;
+  font-size: 19px;
+  margin-top: 10px;
+  margin-left: 65px
+}
+#input{
+  outline: none;
+  padding: 5px;
+  margin-left:55px;
+  border-radius:10px; 
+    margin-top: 20px;
+}
+.temperature{
+  font-size: 20px;
+  padding-left: 20px
+}
+
+.button{
+  width :200px;
+  color: #FCC4FF;
+  height: 30px;
+  margin-left: 50px;
+  height: 30px;
+  border-radius: 20px;
+  background-color:#000537;
+  
+  margin-top: 10px;
+  border:2px solid #FCC4FF;
+}

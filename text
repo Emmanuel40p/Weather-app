@@ -1,0 +1,13 @@
+*Here is the challenge*
+
+You're creating a simple weather app that displays a message based on the temperature. Can you write a JavaScript code that takes the temperature as input and displays:
+
+- "It's hot!" if the temperature is above 25°C.
+- "It's cold!" if the temperature is below 15°C.
+- "It's just right!" if the temperature is between 15°C and 25°C.
+
+cold color: rgba(3, 85, 255, 0.99) 
+
+hot Color:rgba(171, 38, 21, 0.99) ;
+
+warm color.rgba(80, 255, 202);
